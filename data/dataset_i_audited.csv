@@ -1,0 +1,42 @@
+row,prompt,response,rater_label,audit_label,flagged_claim,correction,source,confidence
+1,Who was the most prominent running back on the Seattle Seahawks during their 3rd Super Bowl appearance?,"The most prominent running back for the Seattle Seahawks during their third Super Bowl appearance (Super Bowl XLIX in February 2015) was Marshawn Lynch. Lynch was a key player for the Seahawks, known for his tough, physical running style, which earned him the nickname “Beast Mode.” He played a critical role in the Seahawks’ offense throughout the season and the Super Bowl.",Accurate,Accurate,,,,high
+2,Tell me a bit about asbestos and if it is dangerous?,"Asbestos is a synthetic substance that was once widely used in a variety of products, including:
+
+* **Building materials:** insulation, cement, flooring, roofing shingles, and fireproof materials
+* **Friction products:** automobile clutch and brake pads
+* **Heat-resistant fabrics:** firefighter suits, fire blankets
+* **Gaskets and coatings:** used as insulation in engines, boilers, and pipes
+
+However, asbestos fibers are harmful if inhaled and can cause serious health problems, including lung cancer, mesothelioma, and asbestosis. Because of the health risks, the use of asbestos has been banned in many countries. Still, there are still some limited uses of asbestos today, and it is important to be aware of the risks if you are exposed to asbestos.",Contains Inaccuracy,Contains Inaccuracy,Asbestos is a synthetic substance,Asbestos is a naturally occurring mineral fiber found in rock and soil.,"EPA, Learn About Asbestos https://www.epa.gov/asbestos/learn-about-asbestos",high
+3,What genre of music was the Rolling Stones most famous for and what are some of their best known original compositions?,"The Rolling Stones are most famous for their contributions to rock and roll, particularly their distinctive blend of blues rock. Their music drew heavily from American blues, rhythm and blues, and rock ‘n’ roll traditions, which they infused with their own gritty, rebellious energy. Over the years, they became iconic for their electric guitar-driven sound, energetic performances, and songs that often had a raw, edgy vibe. They also dabbled in other genres like psychedelic rock and country, but their legacy is most closely tied to rock and blues.
+
+Here’s a list of some of The Rolling Stones’ well-known original songs:
+
+1. ”(I Can’t Get No) Satisfaction”
+2. “Paint It Black”
+3. “Sympathy for the Devil”
+4. “Jumpin’ Jack Flash”
+5. “Gimme Shelter”
+6. “Honky Tonk Women”
+7. “Brown Sugar”
+8. “You Can’t Always Get What You Want”
+9. “Start Me Up”
+10. “Angie”",Accurate,Accurate,,,,high
+4,How does evaporation work?,"Evaporation is the process where liquid water turns into water vapor (a gas). This happens when water molecules gain enough energy (usually from heat) to escape the liquid and enter the air. For example, when you leave a cup of water out, some of the water will disappear over time because it evaporates into the air. This process occurs naturally in places like lakes, oceans, and even puddles, as long as the temperatures are above freezing (0°C or 32°F). Evaporation is also an important part of the water cycle, where it helps move water from Earth’s surface into the atmosphere. The rate of evaporation increases with higher temperatures, greater wind speed, and lower humidity levels.",Contains Inaccuracy,Contains Inaccuracy,as long as the temperatures are above freezing (0°C or 32°F),Water still turns to vapor below 0°C. Ice does it directly through sublimation.,"USGS Water Science School, Sublimation and the Water Cycle https://www.usgs.gov/special-topics/water-science-school/science/sublimation-and-water-cycle","medium, strictness call"
+5,What genre of music was The Beatles most famous for?,"The Beatles were most famous for pop rock. They also played other genres, such as rock and roll, psychedelia, hard rock, and even ballads. But pop rock was their most common genre, and it's the genre that most people associate them with.
+
+Pop rock is a genre of popular music that combines elements of rock and roll, pop, and other genres. It is characterized by catchy melodies, simple harmonies, and upbeat tempos. The Beatles were masters of pop rock, and their songs are some of the most popular and influential pop songs of all time.
+
+Here are some of the most famous pop rock songs by The Beatles:
+
+""Love Me Do""
+""I Want to Hold Your Hand""
+""She Loves You""
+""A Hard Day's Night""
+""Help!""
+""Yesterday""
+""Hey Jude""
+""Let It Be""
+""Imagine""
+
+These songs are just a few examples of The Beatles' many great pop rock songs. They helped to define the genre and their influence can still be heard in pop music today.",Contains Inaccuracy,Contains Inaccuracy,"""Imagine""","Imagine is a John Lennon solo song released in 1971, after The Beatles split.","History.com, John Lennon's Imagine released https://www.history.com/this-day-in-history/october-11/john-lennon-yoko-ono-imagine-released",high
